@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 625%; 
+}
+
+body{
+    height:100%;
+    
+}  
+html::-webkit-scrollbar{
+      display: none;
+  }
+body {
+  font: normal 12px/23px "宋体", SimSun, sans-serif, Arial;
+  color: #000;
+  background: #fff
+}
+
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+code,
+form,
+fieldset,
+legend,
+label,
+input,
+textarea,
+p,
+blockquote,
+th,
+td,
+hr,
+button,
+select,
+table {
+  margin: 0;
+  padding: 0;
+  font-weight: normal
+}
+
+a{
+    text-decoration: none;
+}
+
+h3 {
+  font-size: 14px
+}
+
+ul {
+  list-style: none
+}
+
+table {
+  border-collapse: collapse
+}
+
+iframe {
+  vertical-align: bottom
+}
+
+img {
+  border: 0
+}
+
+select {
+  height: 20px
+}
+
+i {
+  font-style: normal
+}
+
+b {
+  font-weight: normal
+}
